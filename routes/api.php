@@ -6,7 +6,7 @@ use App\Http\Controllers\MoviesController;
 
 /*
 |--------------------------------------------------------------------------
-| API Routes
+| API Route
 |--------------------------------------------------------------------------
 |
 | Here is where you can register API routes for your application. These
